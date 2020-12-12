@@ -15,11 +15,11 @@
 
 ## Recently used Technologies:
 ```
--> Postgres Sequelize
--> Typescript
--> Redux
--> React
--> Express
+⃗ Postgres Sequelize
+⃗ Typescript
+⃗ Redux
+⃗ React
+⃗ Express
 ```
 
 <!--
