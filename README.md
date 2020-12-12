@@ -11,6 +11,17 @@
     - ⛷
     - 🏌️‍♂️
 
+
+
+## Recently used Technologies:
+```
+-> Postgres Sequelize
+-> Typescript
+-> Redux
+-> React
+-> Express
+```
+
 <!--
 **lucaserly/lucaserly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
