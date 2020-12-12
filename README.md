@@ -1,6 +1,6 @@
 ### Lucas Erlacher
 
-![](image/IMG_3203 copy.jpg)
+![](images/IMG_3203%20copy%202.jpg)
 
 Ciao I'm Lucas - Full Stack Software Developer from Italy 🇮🇹
 
