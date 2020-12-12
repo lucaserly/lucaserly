@@ -4,7 +4,7 @@
 
 ## Ciao 😀, I'm Lucas:
 - Full Stack Software Developer from Italy 🇮🇹
-- Background in Business Management 📊
+- Background in Financial Statement Analysis 📊
 - Teaching people how to:
     - ⛷
     - 🏌️‍♂️
