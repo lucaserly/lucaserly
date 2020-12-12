@@ -31,7 +31,7 @@
 ```
 
 ## Connect through:
-- [LinkedIn](www.linkedin.com/in/lucaserlacher) and (www.linkedin.com/in/)
+- [LinkedIn](www.linkedin.com/in/lucaserlacher)
 
 <!--
 **lucaserly/lucaserly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
