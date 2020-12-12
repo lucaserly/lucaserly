@@ -1,8 +1,11 @@
 ### Lucas Erlacher
 
-![](images/IMG_8247.JPG)
+![](images/IMG_8247_2.jpg)
 
-Ciao I'm Lucas - Full Stack Software Developer from Italy 🇮🇹
+Ciao I'm Lucas 
+    -> Full Stack Software Developer from Italy 🇮🇹 
+    -> Background in financial statement analysis 📈
+    -> I
 
 <!--
 **lucaserly/lucaserly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
