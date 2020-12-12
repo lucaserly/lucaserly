@@ -4,14 +4,12 @@
 
 ## Ciao 😀, I'm Lucas:
 - Full Stack Software Developer from Italy 🇮🇹
-- Background in Business Management
+- Background in Business Management 📊
 - Used to: 
   - Analyse financial statements 📈
   - Teach people how to:
     - ⛷
     - 🏌️‍♂️
-
-
 
 ## Recently used Technologies:
 ```
@@ -20,6 +18,15 @@
 → Redux
 → React
 → Express
+```
+
+## During my free time:
+```
+→ Play golf 🏌️‍♂️
+→ Run 🏃‍♂️
+→ Ski ⛷
+→ Read 📖
+→ Dota 2 🎮
 ```
 
 <!--
