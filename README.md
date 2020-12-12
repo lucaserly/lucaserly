@@ -6,7 +6,8 @@ Ciao I'm Lucas:
 - Full Stack Software Developer from Italy 🇮🇹
 - Background in financial statement analysis 📈
 - Also: 
-  - 
+  - Teaching people how to ⛷
+  - Teaching people how to 🏌️‍♂️
 
 <!--
 **lucaserly/lucaserly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
