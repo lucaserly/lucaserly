@@ -3,7 +3,6 @@
 ![](images/IMG_8247_2.jpg)
 
 ## Ciao 😀, I'm Lucas:
-![](images/Unknown-2)
 - Full Stack Software Developer from Italy 🇮🇹
 - Background in Business Management 📊
 - Used to: 
