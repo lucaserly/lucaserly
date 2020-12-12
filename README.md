@@ -31,6 +31,7 @@
 ```
 
 ## Connect through:
+www.linkedin.com/in/lucaserlacher - automatic!
 - [LinkedIn](www.linkedin.com/in/lucaserlacher)
 
 <!--
