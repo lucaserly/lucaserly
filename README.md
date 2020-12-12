@@ -2,14 +2,14 @@
 
 ![](images/IMG_8247_2.jpg)
 
-## Ciao 😀, I'm Lucas:
+## Ciao 😀, I'm Lucas
 - Full Stack Software Developer from Italy 🇮🇹
 - Background in Financial Statement Analysis 📊
 - Teaching people how to:
     - ⛷
     - 🏌️‍♂️
 
-## Recently used Technologies:
+## Recently used Technologies
 ```
 → PostgreSQL
 → Typescript
@@ -18,7 +18,7 @@
 → Express
 ```
 
-## During my free time:
+## During my free time
 ```
 → Golf 🏌️‍♂️
 → Run 🏃‍♂️
@@ -28,7 +28,7 @@
 → Dota 2 🎮
 ```
 
-## Connect through:
+## Connect through
 - [LinkedIn](https://www.linkedin.com/in/lucaserlacher/)
 - [e-mail](mailto:l.erlacher@icloud.com)
 
