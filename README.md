@@ -22,9 +22,10 @@
 
 ## During my free time:
 ```
-→ Play golf 🏌️‍♂️
+→ Golf 🏌️‍♂️
 → Run 🏃‍♂️
 → Ski ⛷
+→ Tennis 🎾
 → Read 📖
 → Dota 2 🎮
 ```
