@@ -30,7 +30,7 @@
 
 ## Connect through:
 - [LinkedIn](https://www.linkedin.com/in/lucaserlacher/)
-- [e-mail](l.erlacher@icloud.com)
+- [e-mail](mailto:l.erlacher@icloud.com)
 
 <!--
 **lucaserly/lucaserly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
