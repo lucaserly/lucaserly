@@ -11,7 +11,7 @@
 
 ## Recently used Technologies:
 ```
-→ Postgres Sequelize
+→ PostgreSQL
 → Typescript
 → Redux
 → React
