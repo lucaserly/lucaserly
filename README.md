@@ -3,7 +3,7 @@
 ![](images/IMG_8247_2.jpg)
 
 ## Ciao 😀, I'm Lucas
-- Full-Stack Developer from Italy 🇮🇹
+- Full-stack Developer from Italy 🇮🇹
 - Background in Financial Statement Analysis 📊
 - Teaching people how to:
     - ⛷
