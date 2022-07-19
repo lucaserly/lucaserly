@@ -29,6 +29,7 @@
 ```
 
 ## Connect through
+- [website](https://lucas-erlacher.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/lucaserlacher/)
 - [e-mail](mailto:l.erlacher@icloud.com)
 
